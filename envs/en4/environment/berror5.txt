@@ -1,0 +1,1492 @@
+Player 1: if(randomValue<0.291)if(myShipsLandedFlyingRatio<0.771)attackBeneficiousPlanet(0.322);else@attackWeakestEnemyPlanet(0.292);else@if(actualMyShipsRatio<0.302)attackBeneficiousNeutralPlanet(0.583);else@attackQuickEnemyPlanet(0.185);
+Player 1: GENERANDO METODO A PARTIR DE ARBOL
+Player 1: EL ARBOL ES if(randomValue<0.291)if(myShipsLandedFlyingRatio<0.771)attackBeneficiousPlanet(0.322);else attackWeakestEnemyPlanet(0.292);else if(actualMyShipsRatio<0.302)attackBeneficiousNeutralPlanet(0.583);else attackQuickEnemyPlanet(0.185);
+Player 2: P1 - false-0/0-0/0
+Player 2: P2 - false-0/0-0/0
+Player 2: P3 - false-0/0-0/0
+Player 2: P4 - false-0/0-0/0
+Player 1: ARBOL GENERADO
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.5
+Player 1: myShipsLandedFlyingRatio 1.0
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackWeakestEnemyPlanet 0.292
+Player 1: 3
+Player 1: P1 - true-1/23-100/786
+Player 1: P2 - true-1/23-100/786
+Player 1: P3 - false-0/23-0/786
+Player 1: P4 - false-0/23-0/786
+Turn 1
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.4198895027624309
+Player 1: myShipsLandedFlyingRatio 0.7238095238095238
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-105/796
+Player 1: P2 - true-1/23-105/796
+Player 1: P3 - false-0/23-0/796
+Player 1: P4 - false-0/23-0/796
+Player 2: P1 - true-1/23-105/796
+Player 2: P2 - true-1/23-105/796
+Player 2: P3 - false-0/23-0/796
+Player 2: P4 - false-0/23-0/796
+Turn 2
+Player 2: P1 - true-1/23-110/806
+Player 2: P2 - true-1/23-110/806
+Player 2: P3 - false-0/23-0/806
+Player 2: P4 - false-0/23-0/806
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.4240506329113924
+Player 1: myShipsLandedFlyingRatio 0.6090909090909091
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-110/806
+Player 1: P2 - true-1/23-110/806
+Player 1: P3 - false-0/23-0/806
+Player 1: P4 - false-0/23-0/806
+Turn 3
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.4316546762589928
+Player 1: myShipsLandedFlyingRatio 0.5217391304347826
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-115/816
+Player 1: P2 - true-1/23-115/816
+Player 1: P3 - false-0/23-0/816
+Player 1: P4 - false-0/23-0/816
+Player 2: P1 - true-1/23-115/816
+Player 2: P2 - true-1/23-115/816
+Player 2: P3 - false-0/23-0/816
+Player 2: P4 - false-0/23-0/816
+Turn 4
+Player 1: 1
+Player 2: P1 - true-1/23-120/826
+Player 2: P2 - true-1/23-120/826
+Player 2: P3 - false-0/23-0/826
+Player 2: P4 - false-0/23-0/826
+Player 1: myShipsEnemyRatio 0.453781512605042
+Player 1: myShipsLandedFlyingRatio 0.45
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-1/23-120/826
+Player 1: P2 - true-1/23-120/826
+Player 1: P3 - false-0/23-0/826
+Player 1: P4 - false-0/23-0/826
+Turn 5
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.4666666666666667
+Player 1: myShipsLandedFlyingRatio 0.336
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-1/23-125/836
+Player 1: P2 - true-1/23-125/836
+Player 1: P3 - false-0/23-0/836
+Player 1: P4 - false-0/23-0/836
+Player 2: P1 - true-1/23-125/836
+Player 2: P2 - true-1/23-125/836
+Player 2: P3 - false-0/23-0/836
+Player 2: P4 - false-0/23-0/836
+Turn 6
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.5230769230769231
+Player 1: myShipsLandedFlyingRatio 0.26153846153846155
+Player 1: myPlanetsEnemyRatio 0.5
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-130/846
+Player 1: P2 - true-1/23-130/846
+Player 1: P3 - false-0/23-0/846
+Player 1: P4 - false-0/23-0/846
+Player 2: P1 - true-1/23-130/846
+Player 2: P2 - true-1/23-130/846
+Player 2: P3 - false-0/23-0/846
+Player 2: P4 - false-0/23-0/846
+Turn 7
+Player 2: P1 - true-2/23-130/846
+Player 2: P2 - true-1/23-135/846
+Player 2: P3 - false-0/23-0/846
+Player 2: P4 - false-0/23-0/846
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.5
+Player 1: myShipsLandedFlyingRatio 0.24444444444444444
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-135/846
+Player 1: P2 - true-2/23-130/846
+Player 1: P3 - false-0/23-0/846
+Player 1: P4 - false-0/23-0/846
+Turn 8
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.3595505617977528
+Player 1: myShipsLandedFlyingRatio 0.22857142857142856
+Player 1: myPlanetsEnemyRatio 0.25
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-140/855
+Player 1: P2 - true-3/23-137/855
+Player 1: P3 - false-0/23-0/855
+Player 1: P4 - false-0/23-0/855
+Player 2: P1 - true-3/23-137/855
+Player 2: P2 - true-1/23-140/855
+Player 2: P3 - false-0/23-0/855
+Player 2: P4 - false-0/23-0/855
+Turn 9
+Player 2: P1 - true-3/23-149/872
+Player 2: P2 - true-1/23-145/872
+Player 2: P3 - false-0/23-0/872
+Player 2: P4 - false-0/23-0/872
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.41025641025641024
+Player 1: myShipsLandedFlyingRatio 0.2206896551724138
+Player 1: myPlanetsEnemyRatio 0.25
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-145/872
+Player 1: P2 - true-3/23-149/872
+Player 1: P3 - false-0/23-0/872
+Player 1: P4 - false-0/23-0/872
+Turn 10
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.35555555555555557
+Player 1: myShipsLandedFlyingRatio 0.21333333333333335
+Player 1: myPlanetsEnemyRatio 0.25
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-1/23-150/889
+Player 1: P2 - true-3/23-161/889
+Player 1: P3 - false-0/23-0/889
+Player 1: P4 - false-0/23-0/889
+Player 2: P1 - true-3/23-161/889
+Player 2: P2 - true-1/23-150/889
+Player 2: P3 - false-0/23-0/889
+Player 2: P4 - false-0/23-0/889
+Turn 11
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.47619047619047616
+Player 1: myShipsLandedFlyingRatio 0.28776978417266186
+Player 1: myPlanetsEnemyRatio 0.4
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-139/864
+Player 1: P2 - true-3/23-152/864
+Player 1: P3 - false-0/23-0/864
+Player 1: P4 - false-0/23-0/864
+Player 2: P1 - true-3/23-152/864
+Player 2: P2 - true-2/23-139/864
+Player 2: P3 - false-0/23-0/864
+Player 2: P4 - false-0/23-0/864
+Turn 12
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.48148148148148145
+Player 1: myShipsLandedFlyingRatio 0.348993288590604
+Player 1: myPlanetsEnemyRatio 0.4
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-149/886
+Player 1: P2 - true-3/23-164/886
+Player 1: P3 - false-0/23-0/886
+Player 1: P4 - false-0/23-0/886
+Player 2: P1 - true-3/23-164/886
+Player 2: P2 - true-2/23-149/886
+Player 2: P3 - false-0/23-0/886
+Player 2: P4 - false-0/23-0/886
+Turn 13
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.4142857142857143
+Player 1: myShipsLandedFlyingRatio 0.36477987421383645
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-159/892
+Player 1: P2 - true-4/23-168/892
+Player 1: P3 - false-0/23-0/892
+Player 1: P4 - false-0/23-0/892
+Player 2: P1 - true-4/23-168/892
+Player 2: P2 - true-2/23-159/892
+Player 2: P3 - false-0/23-0/892
+Player 2: P4 - false-0/23-0/892
+Turn 14
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.38125
+Player 1: myShipsLandedFlyingRatio 0.3609467455621302
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-169/919
+Player 1: P2 - true-4/23-185/919
+Player 1: P3 - false-0/23-0/919
+Player 1: P4 - false-0/23-0/919
+Player 2: P1 - true-4/23-185/919
+Player 2: P2 - true-2/23-169/919
+Player 2: P3 - false-0/23-0/919
+Player 2: P4 - false-0/23-0/919
+Turn 15
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.3956043956043956
+Player 1: myShipsLandedFlyingRatio 0.4161849710982659
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-173/934
+Player 1: P2 - true-4/23-196/934
+Player 1: P3 - false-0/23-0/934
+Player 1: P4 - false-0/23-0/934
+Player 2: P1 - true-4/23-196/934
+Player 2: P2 - true-2/23-173/934
+Player 2: P3 - false-0/23-0/934
+Player 2: P4 - false-0/23-0/934
+Turn 16
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.39
+Player 1: myShipsLandedFlyingRatio 0.43820224719101125
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-178/951
+Player 1: P2 - true-4/23-208/951
+Player 1: P3 - false-0/23-0/951
+Player 1: P4 - false-0/23-0/951
+Player 2: P1 - true-4/23-208/951
+Player 2: P2 - true-2/23-178/951
+Player 2: P3 - false-0/23-0/951
+Player 2: P4 - false-0/23-0/951
+Turn 17
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.3179916317991632
+Player 1: myShipsLandedFlyingRatio 0.41304347826086957
+Player 1: myPlanetsEnemyRatio 0.25
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-184/936
+Player 1: P2 - true-6/23-204/936
+Player 1: P3 - false-0/23-0/936
+Player 1: P4 - false-0/23-0/936
+Player 2: P1 - true-6/23-204/936
+Player 2: P2 - true-2/23-184/936
+Player 2: P3 - false-0/23-0/936
+Player 2: P4 - false-0/23-0/936
+Turn 18
+Player 2: P1 - true-7/23-210/933
+Player 2: P2 - true-2/23-185/933
+Player 2: P3 - false-0/23-0/933
+Player 2: P4 - false-0/23-0/933
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.24313725490196078
+Player 1: myShipsLandedFlyingRatio 0.33513513513513515
+Player 1: myPlanetsEnemyRatio 0.2222222222222222
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-185/933
+Player 1: P2 - true-7/23-210/933
+Player 1: P3 - false-0/23-0/933
+Player 1: P4 - false-0/23-0/933
+Turn 19
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.2426470588235294
+Player 1: myShipsLandedFlyingRatio 0.3707865168539326
+Player 1: myPlanetsEnemyRatio 0.3
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-3/23-178/936
+Player 1: P2 - true-7/23-223/936
+Player 1: P3 - false-0/23-0/936
+Player 1: P4 - false-0/23-0/936
+Player 2: P1 - true-7/23-223/936
+Player 2: P2 - true-3/23-178/936
+Player 2: P3 - false-0/23-0/936
+Player 2: P4 - false-0/23-0/936
+Turn 20
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.2482758620689655
+Player 1: myShipsLandedFlyingRatio 0.4114285714285714
+Player 1: myPlanetsEnemyRatio 0.3
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-3/23-175/945
+Player 1: P2 - true-7/23-235/945
+Player 1: P3 - false-0/23-0/945
+Player 1: P4 - false-0/23-0/945
+Player 2: P1 - true-7/23-235/945
+Player 2: P2 - true-3/23-175/945
+Player 2: P3 - false-0/23-0/945
+Player 2: P4 - false-0/23-0/945
+Turn 21
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.31086142322097376
+Player 1: myShipsLandedFlyingRatio 0.46111111111111114
+Player 1: myPlanetsEnemyRatio 0.4
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-180/970
+Player 1: P2 - true-6/23-255/970
+Player 1: P3 - false-0/23-0/970
+Player 1: P4 - false-0/23-0/970
+Player 2: P1 - true-6/23-255/970
+Player 2: P2 - true-4/23-180/970
+Player 2: P3 - false-0/23-0/970
+Player 2: P4 - false-0/23-0/970
+Turn 22
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.2695035460992908
+Player 1: myShipsLandedFlyingRatio 0.4222222222222222
+Player 1: myPlanetsEnemyRatio 0.4
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-180/975
+Player 1: P2 - true-6/23-260/975
+Player 1: P3 - false-0/23-0/975
+Player 1: P4 - false-0/23-0/975
+Player 2: P1 - true-6/23-260/975
+Player 2: P2 - true-4/23-180/975
+Player 2: P3 - false-0/23-0/975
+Player 2: P4 - false-0/23-0/975
+Turn 23
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.28174603174603174
+Player 1: myShipsLandedFlyingRatio 0.3604060913705584
+Player 1: myPlanetsEnemyRatio 0.4
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-197/1014
+Player 1: P2 - true-6/23-282/1014
+Player 1: P3 - false-0/23-0/1014
+Player 1: P4 - false-0/23-0/1014
+Player 2: P1 - true-6/23-282/1014
+Player 2: P2 - true-4/23-197/1014
+Player 2: P3 - false-0/23-0/1014
+Player 2: P4 - false-0/23-0/1014
+Turn 24
+Player 2: P1 - true-6/23-304/1043
+Player 2: P2 - true-4/23-209/1043
+Player 2: P3 - false-0/23-0/1043
+Player 2: P4 - false-0/23-0/1043
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.275
+Player 1: myShipsLandedFlyingRatio 0.3684210526315789
+Player 1: myPlanetsEnemyRatio 0.4
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-209/1043
+Player 1: P2 - true-6/23-304/1043
+Player 1: P3 - false-0/23-0/1043
+Player 1: P4 - false-0/23-0/1043
+Turn 25
+Player 2: P1 - true-6/23-326/1074
+Player 2: P2 - true-5/23-222/1074
+Player 2: P3 - false-0/23-0/1074
+Player 2: P4 - false-0/23-0/1074
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.28620689655172415
+Player 1: myShipsLandedFlyingRatio 0.3738738738738739
+Player 1: myPlanetsEnemyRatio 0.45454545454545453
+Player 1: myPlanetsTotalRatio 0.21739129722118378
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-5/23-222/1074
+Player 1: P2 - true-6/23-326/1074
+Player 1: P3 - false-0/23-0/1074
+Player 1: P4 - false-0/23-0/1074
+Turn 26
+Player 1: 
+Player 1: myShipsEnemyRatio 0.2408026755852843
+Player 1: myShipsLandedFlyingRatio 0.32
+Player 1: myPlanetsEnemyRatio 0.36363636363636365
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-225/1082
+Player 1: P2 - true-7/23-331/1082
+Player 1: P3 - false-0/23-0/1082
+Player 1: P4 - false-0/23-0/1082
+Player 2: P1 - true-7/23-331/1082
+Player 2: P2 - true-4/23-225/1082
+Player 2: P3 - false-0/23-0/1082
+Player 2: P4 - false-0/23-0/1082
+Turn 27
+Player 2: P1 - true-7/23-355/1118
+Player 2: P2 - true-4/23-237/1118
+Player 2: P3 - false-0/23-0/1118
+Player 2: P4 - false-0/23-0/1118
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.2082018927444795
+Player 1: myShipsLandedFlyingRatio 0.27848101265822783
+Player 1: myPlanetsEnemyRatio 0.36363636363636365
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-237/1118
+Player 1: P2 - true-7/23-355/1118
+Player 1: P3 - false-0/23-0/1118
+Player 1: P4 - false-0/23-0/1118
+Turn 28
+Player 1: 
+Player 1: myShipsEnemyRatio 0.215625
+Player 1: myShipsLandedFlyingRatio 0.27710843373493976
+Player 1: myPlanetsEnemyRatio 0.36363636363636365
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-249/1154
+Player 1: P2 - true-7/23-379/1154
+Player 1: P3 - false-0/23-0/1154
+Player 1: P4 - false-0/23-0/1154
+Player 2: P1 - true-7/23-379/1154
+Player 2: P2 - true-4/23-249/1154
+Player 2: P3 - false-0/23-0/1154
+Player 2: P4 - false-0/23-0/1154
+Turn 29
+Player 2: P1 - true-7/23-368/1120
+Player 2: P2 - true-4/23-226/1120
+Player 2: P3 - false-0/23-0/1120
+Player 2: P4 - false-0/23-0/1120
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.17525773195876287
+Player 1: myShipsLandedFlyingRatio 0.22566371681415928
+Player 1: myPlanetsEnemyRatio 0.36363636363636365
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-226/1120
+Player 1: P2 - true-7/23-368/1120
+Player 1: P3 - false-0/23-0/1120
+Player 1: P4 - false-0/23-0/1120
+Turn 30
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.17049180327868851
+Player 1: myShipsLandedFlyingRatio 0.23008849557522124
+Player 1: myPlanetsEnemyRatio 0.36363636363636365
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-226/1132
+Player 1: P2 - true-7/23-381/1132
+Player 1: P3 - false-0/23-0/1132
+Player 1: P4 - false-0/23-0/1132
+Player 2: P1 - true-7/23-381/1132
+Player 2: P2 - true-4/23-226/1132
+Player 2: P3 - false-0/23-0/1132
+Player 2: P4 - false-0/23-0/1132
+Turn 31
+Player 2: P1 - true-8/23-377/1108
+Player 2: P2 - true-4/23-233/1108
+Player 2: P3 - false-0/23-0/1108
+Player 2: P4 - false-0/23-0/1108
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.1165644171779141
+Player 1: myShipsLandedFlyingRatio 0.1630901287553648
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-233/1108
+Player 1: P2 - true-8/23-377/1108
+Player 1: P3 - false-0/23-0/1108
+Player 1: P4 - false-0/23-0/1108
+Turn 32
+Player 2: P1 - true-8/23-399/1113
+Player 2: P2 - true-4/23-227/1113
+Player 2: P3 - false-0/23-0/1113
+Player 2: P4 - false-0/23-0/1113
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.11931818181818182
+Player 1: myShipsLandedFlyingRatio 0.18502202643171806
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-227/1113
+Player 1: P2 - true-8/23-399/1113
+Player 1: P3 - false-0/23-0/1113
+Player 1: P4 - false-0/23-0/1113
+Turn 33
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.09536784741144415
+Player 1: myShipsLandedFlyingRatio 0.15217391304347827
+Player 1: myPlanetsEnemyRatio 0.3333333333333333
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-230/1136
+Player 1: P2 - true-8/23-421/1136
+Player 1: P3 - false-0/23-0/1136
+Player 1: P4 - false-0/23-0/1136
+Player 2: P1 - true-8/23-421/1136
+Player 2: P2 - true-4/23-230/1136
+Player 2: P3 - false-0/23-0/1136
+Player 2: P4 - false-0/23-0/1136
+Turn 34
+Player 2: P1 - true-8/23-444/1147
+Player 2: P2 - true-5/23-227/1147
+Player 2: P3 - false-0/23-0/1147
+Player 2: P4 - false-0/23-0/1147
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.09438775510204081
+Player 1: myShipsLandedFlyingRatio 0.16299559471365638
+Player 1: myPlanetsEnemyRatio 0.38461538461538464
+Player 1: myPlanetsTotalRatio 0.21739129722118378
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-5/23-227/1147
+Player 1: P2 - true-8/23-444/1147
+Player 1: P3 - false-0/23-0/1147
+Player 1: P4 - false-0/23-0/1147
+Turn 35
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.08505747126436781
+Player 1: myShipsLandedFlyingRatio 0.15416666666666667
+Player 1: myPlanetsEnemyRatio 0.3076923076923077
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: 3
+Player 1: P1 - true-4/23-240/1185
+Player 1: P2 - true-9/23-469/1185
+Player 1: P3 - false-0/23-0/1185
+Player 1: P4 - false-0/23-0/1185
+Player 2: P1 - true-9/23-469/1185
+Player 2: P2 - true-4/23-240/1185
+Player 2: P3 - false-0/23-0/1185
+Player 2: P4 - false-0/23-0/1185
+Turn 36
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0975609756097561
+Player 1: myShipsLandedFlyingRatio 0.1889763779527559
+Player 1: myPlanetsEnemyRatio 0.2857142857142857
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-4/23-254/1211
+Player 1: P2 - true-10/23-491/1211
+Player 1: P3 - false-0/23-0/1211
+Player 1: P4 - false-0/23-0/1211
+Player 2: P1 - true-10/23-491/1211
+Player 2: P2 - true-4/23-254/1211
+Player 2: P3 - false-0/23-0/1211
+Player 2: P4 - false-0/23-0/1211
+Turn 37
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.12669683257918551
+Player 1: myShipsLandedFlyingRatio 0.22857142857142856
+Player 1: myPlanetsEnemyRatio 0.2857142857142857
+Player 1: myPlanetsTotalRatio 0.17391304671764374
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-4/23-245/1213
+Player 1: P2 - true-10/23-502/1213
+Player 1: P3 - false-0/23-0/1213
+Player 1: P4 - false-0/23-0/1213
+Player 2: P1 - true-10/23-502/1213
+Player 2: P2 - true-4/23-245/1213
+Player 2: P3 - false-0/23-0/1213
+Player 2: P4 - false-0/23-0/1213
+Turn 38
+Player 2: P1 - true-11/23-519/1227
+Player 2: P2 - true-3/23-242/1227
+Player 2: P3 - false-0/23-0/1227
+Player 2: P4 - false-0/23-0/1227
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.11804008908685969
+Player 1: myShipsLandedFlyingRatio 0.2190082644628099
+Player 1: myPlanetsEnemyRatio 0.21428571428571427
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-3/23-242/1227
+Player 1: P2 - true-11/23-519/1227
+Player 1: P3 - false-0/23-0/1227
+Player 1: P4 - false-0/23-0/1227
+Turn 39
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.11224489795918367
+Player 1: myShipsLandedFlyingRatio 0.2140077821011673
+Player 1: myPlanetsEnemyRatio 0.21428571428571427
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-3/23-257/1281
+Player 1: P2 - true-11/23-558/1281
+Player 1: P3 - false-0/23-0/1281
+Player 1: P4 - false-0/23-0/1281
+Player 2: P1 - true-11/23-558/1281
+Player 2: P2 - true-3/23-257/1281
+Player 2: P3 - false-0/23-0/1281
+Player 2: P4 - false-0/23-0/1281
+Turn 40
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.09689922480620156
+Player 1: myShipsLandedFlyingRatio 0.1893939393939394
+Player 1: myPlanetsEnemyRatio 0.21428571428571427
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-3/23-264/1319
+Player 1: P2 - true-11/23-589/1319
+Player 1: P3 - false-0/23-0/1319
+Player 1: P4 - false-0/23-0/1319
+Player 2: P1 - true-11/23-589/1319
+Player 2: P2 - true-3/23-264/1319
+Player 2: P3 - false-0/23-0/1319
+Player 2: P4 - false-0/23-0/1319
+Turn 41
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.09041591320072333
+Player 1: myShipsLandedFlyingRatio 0.18050541516245489
+Player 1: myPlanetsEnemyRatio 0.21428571428571427
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-3/23-277/1369
+Player 1: P2 - true-11/23-626/1369
+Player 1: P3 - false-0/23-0/1369
+Player 1: P4 - false-0/23-0/1369
+Player 2: P1 - true-11/23-626/1369
+Player 2: P2 - true-3/23-277/1369
+Player 2: P3 - false-0/23-0/1369
+Player 2: P4 - false-0/23-0/1369
+Turn 42
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.08445945945945946
+Player 1: myShipsLandedFlyingRatio 0.17123287671232876
+Player 1: myPlanetsEnemyRatio 0.21428571428571427
+Player 1: myPlanetsTotalRatio 0.1304347813129425
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-3/23-292/1423
+Player 1: P2 - true-11/23-665/1423
+Player 1: P3 - false-0/23-0/1423
+Player 1: P4 - false-0/23-0/1423
+Player 2: P1 - true-11/23-665/1423
+Player 2: P2 - true-3/23-292/1423
+Player 2: P3 - false-0/23-0/1423
+Player 2: P4 - false-0/23-0/1423
+Turn 43
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.07678883071553229
+Player 1: myShipsLandedFlyingRatio 0.15331010452961671
+Player 1: myPlanetsEnemyRatio 0.14285714285714285
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-287/1437
+Player 1: P2 - true-12/23-689/1437
+Player 1: P3 - false-0/23-0/1437
+Player 1: P4 - false-0/23-0/1437
+Player 2: P1 - true-12/23-689/1437
+Player 2: P2 - true-2/23-287/1437
+Player 2: P3 - false-0/23-0/1437
+Player 2: P4 - false-0/23-0/1437
+Turn 44
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.08333333333333333
+Player 1: myShipsLandedFlyingRatio 0.1701388888888889
+Player 1: myPlanetsEnemyRatio 0.14285714285714285
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-288/1473
+Player 1: P2 - true-12/23-727/1473
+Player 1: P3 - false-0/23-0/1473
+Player 1: P4 - false-0/23-0/1473
+Player 2: P1 - true-12/23-727/1473
+Player 2: P2 - true-2/23-288/1473
+Player 2: P3 - false-0/23-0/1473
+Player 2: P4 - false-0/23-0/1473
+Turn 45
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.07350689127105667
+Player 1: myShipsLandedFlyingRatio 0.1708185053380783
+Player 1: myPlanetsEnemyRatio 0.07142857142857142
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-281/1493
+Player 1: P2 - true-13/23-757/1493
+Player 1: P3 - false-0/23-0/1493
+Player 1: P4 - false-0/23-0/1493
+Player 2: P1 - true-13/23-757/1493
+Player 2: P2 - true-1/23-281/1493
+Player 2: P3 - false-0/23-0/1493
+Player 2: P4 - false-0/23-0/1493
+Turn 46
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.06912442396313365
+Player 1: myShipsLandedFlyingRatio 0.16423357664233576
+Player 1: myPlanetsEnemyRatio 0.07142857142857142
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-1/23-274/1523
+Player 1: P2 - true-13/23-802/1523
+Player 1: P3 - false-0/23-0/1523
+Player 1: P4 - false-0/23-0/1523
+Player 2: P1 - true-13/23-802/1523
+Player 2: P2 - true-1/23-274/1523
+Player 2: P3 - false-0/23-0/1523
+Player 2: P4 - false-0/23-0/1523
+Turn 47
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.08647140864714087
+Player 1: myShipsLandedFlyingRatio 0.2222222222222222
+Player 1: myPlanetsEnemyRatio 0.13333333333333333
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-279/1577
+Player 1: P2 - true-13/23-851/1577
+Player 1: P3 - false-0/23-0/1577
+Player 1: P4 - false-0/23-0/1577
+Player 2: P1 - true-13/23-851/1577
+Player 2: P2 - true-2/23-279/1577
+Player 2: P3 - false-0/23-0/1577
+Player 2: P4 - false-0/23-0/1577
+Turn 48
+Player 1: 
+Player 1: myShipsEnemyRatio 0.09529860228716645
+Player 1: myShipsLandedFlyingRatio 0.26785714285714285
+Player 1: myPlanetsEnemyRatio 0.125
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-280/1583
+Player 1: P2 - true-14/23-875/1583
+Player 1: P3 - false-0/23-0/1583
+Player 1: P4 - false-0/23-0/1583
+Player 2: P1 - true-14/23-875/1583
+Player 2: P2 - true-2/23-280/1583
+Player 2: P3 - false-0/23-0/1583
+Player 2: P4 - false-0/23-0/1583
+Turn 49
+Player 2: P1 - true-14/23-912/1613
+Player 2: P2 - true-2/23-273/1613
+Player 2: P3 - false-0/23-0/1613
+Player 2: P4 - false-0/23-0/1613
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.10620525059665871
+Player 1: myShipsLandedFlyingRatio 0.326007326007326
+Player 1: myPlanetsEnemyRatio 0.125
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-273/1613
+Player 1: P2 - true-14/23-912/1613
+Player 1: P3 - false-0/23-0/1613
+Player 1: P4 - false-0/23-0/1613
+Turn 50
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.09195402298850575
+Player 1: myShipsLandedFlyingRatio 0.3125
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-256/1563
+Player 1: P2 - true-15/23-909/1563
+Player 1: P3 - false-0/23-0/1563
+Player 1: P4 - false-0/23-0/1563
+Player 2: P1 - true-15/23-909/1563
+Player 2: P2 - true-2/23-256/1563
+Player 2: P3 - false-0/23-0/1563
+Player 2: P4 - false-0/23-0/1563
+Turn 51
+Player 2: P1 - true-15/23-942/1583
+Player 2: P2 - true-2/23-243/1583
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.08351893095768374
+Player 1: myShipsLandedFlyingRatio 0.30864197530864196
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-243/1583
+Player 1: P2 - true-15/23-942/1583
+Player 1: P3 - false-0/23-0/1583
+Player 1: P4 - false-0/23-0/1583
+Player 2: P3 - false-0/23-0/1583
+Player 2: P4 - false-0/23-0/1583
+Turn 52
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.08176100628930817
+Player 1: myShipsLandedFlyingRatio 0.312
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-2/23-250/1643
+Player 1: P2 - true-15/23-995/1643
+Player 1: P3 - false-0/23-0/1643
+Player 1: P4 - false-0/23-0/1643
+Player 2: P1 - true-15/23-995/1643
+Player 2: P2 - true-2/23-250/1643
+Player 2: P3 - false-0/23-0/1643
+Player 2: P4 - false-0/23-0/1643
+Turn 53
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.02252252252252252
+Player 1: myShipsLandedFlyingRatio 0.10256410256410256
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-195/1579
+Player 1: P2 - true-15/23-986/1579
+Player 1: P3 - false-0/23-0/1579
+Player 1: P4 - false-0/23-0/1579
+Player 2: P1 - true-15/23-986/1579
+Player 2: P2 - true-2/23-195/1579
+Player 2: P3 - false-0/23-0/1579
+Player 2: P4 - false-0/23-0/1579
+Turn 54
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.03765227021040975
+Player 1: myShipsLandedFlyingRatio 0.17435897435897435
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-195/1629
+Player 1: P2 - true-15/23-1036/1629
+Player 1: P3 - false-0/23-0/1629
+Player 1: P4 - false-0/23-0/1629
+Player 2: P1 - true-15/23-1036/1629
+Player 2: P2 - true-2/23-195/1629
+Player 2: P3 - false-0/23-0/1629
+Player 2: P4 - false-0/23-0/1629
+Turn 55
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.06385281385281386
+Player 1: myShipsLandedFlyingRatio 0.295
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-200/1689
+Player 1: P2 - true-15/23-1091/1689
+Player 1: P3 - false-0/23-0/1689
+Player 1: P4 - false-0/23-0/1689
+Player 2: P1 - true-15/23-1091/1689
+Player 2: P2 - true-2/23-200/1689
+Player 2: P3 - false-0/23-0/1689
+Player 2: P4 - false-0/23-0/1689
+Turn 56
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.05592105263157895
+Player 1: myShipsLandedFlyingRatio 0.24878048780487805
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-205/1749
+Player 1: P2 - true-15/23-1146/1749
+Player 1: P3 - false-0/23-0/1749
+Player 1: P4 - false-0/23-0/1749
+Player 2: P1 - true-15/23-1146/1749
+Player 2: P2 - true-2/23-205/1749
+Player 2: P3 - false-0/23-0/1749
+Player 2: P4 - false-0/23-0/1749
+Turn 57
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.06787330316742081
+Player 1: myShipsLandedFlyingRatio 0.2857142857142857
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-210/1809
+Player 1: P2 - true-15/23-1201/1809
+Player 1: P3 - false-0/23-0/1809
+Player 1: P4 - false-0/23-0/1809
+Player 2: P1 - true-15/23-1201/1809
+Player 2: P2 - true-2/23-210/1809
+Player 2: P3 - false-0/23-0/1809
+Player 2: P4 - false-0/23-0/1809
+Turn 58
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0628997867803838
+Player 1: myShipsLandedFlyingRatio 0.2744186046511628
+Player 1: myPlanetsEnemyRatio 0.11764705882352941
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-215/1869
+Player 1: P2 - true-15/23-1256/1869
+Player 1: P3 - false-0/23-0/1869
+Player 1: P4 - false-0/23-0/1869
+Player 2: P1 - true-15/23-1256/1869
+Player 2: P2 - true-2/23-215/1869
+Player 2: P3 - false-0/23-0/1869
+Player 2: P4 - false-0/23-0/1869
+Turn 59
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.056666666666666664
+Player 1: myShipsLandedFlyingRatio 0.2562814070351759
+Player 1: myPlanetsEnemyRatio 0.10526315789473684
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-199/1645
+Player 1: P2 - true-17/23-1169/1645
+Player 1: P3 - false-0/23-0/1645
+Player 1: P4 - false-0/23-0/1645
+Player 2: P1 - true-17/23-1169/1645
+Player 2: P2 - true-2/23-199/1645
+Player 2: P3 - false-0/23-0/1645
+Player 2: P4 - false-0/23-0/1645
+Turn 60
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.06447831184056271
+Player 1: myShipsLandedFlyingRatio 0.3005464480874317
+Player 1: myPlanetsEnemyRatio 0.10526315789473684
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-183/1668
+Player 1: P2 - true-17/23-1208/1668
+Player 1: P3 - false-0/23-0/1668
+Player 1: P4 - false-0/23-0/1668
+Player 2: P1 - true-17/23-1208/1668
+Player 2: P2 - true-2/23-183/1668
+Player 2: P3 - false-0/23-0/1668
+Player 2: P4 - false-0/23-0/1668
+Turn 61
+Player 2: P1 - true-17/23-1268/1733
+Player 2: P2 - true-2/23-188/1733
+Player 2: P3 - false-0/23-0/1733
+Player 2: P4 - false-0/23-0/1733
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.052980132450331126
+Player 1: myShipsLandedFlyingRatio 0.2553191489361702
+Player 1: myPlanetsEnemyRatio 0.10526315789473684
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-188/1733
+Player 1: P2 - true-17/23-1268/1733
+Player 1: P3 - false-0/23-0/1733
+Player 1: P4 - false-0/23-0/1733
+Turn 62
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0441025641025641
+Player 1: myShipsLandedFlyingRatio 0.22279792746113988
+Player 1: myPlanetsEnemyRatio 0.1
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-193/1642
+Player 1: P2 - true-18/23-1250/1642
+Player 1: P3 - false-0/23-0/1642
+Player 1: P4 - false-0/23-0/1642
+Player 2: P1 - true-18/23-1250/1642
+Player 2: P2 - true-2/23-193/1642
+Player 2: P3 - false-0/23-0/1642
+Player 2: P4 - false-0/23-0/1642
+Turn 63
+Player 2: P1 - true-18/23-1315/1712
+Player 2: P2 - true-2/23-198/1712
+Player 2: P3 - false-0/23-0/1712
+Player 2: P4 - false-0/23-0/1712
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.037644787644787646
+Player 1: myShipsLandedFlyingRatio 0.19696969696969696
+Player 1: myPlanetsEnemyRatio 0.1
+Player 1: myPlanetsTotalRatio 0.08695652335882187
+Player 1: 2
+Player 1: attackBeneficiousNeutralPlanet 0.583
+Player 1: attackQuickEnemyPlanet 0.185
+Player 1: 3
+Player 1: P1 - true-2/23-198/1712
+Player 1: P2 - true-18/23-1315/1712
+Player 1: P3 - false-0/23-0/1712
+Player 1: P4 - false-0/23-0/1712
+Turn 64
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.025261324041811847
+Player 1: myShipsLandedFlyingRatio 0.14720812182741116
+Player 1: myPlanetsEnemyRatio 0.047619047619047616
+Player 1: myPlanetsTotalRatio 0.043478261679410934
+Player 1: 2
+Player 1: attackBeneficiousPlanet 0.322
+Player 1: 3
+Player 1: P1 - true-1/23-197/1614
+Player 1: P2 - true-20/23-1296/1614
+Player 1: P3 - false-0/23-0/1614
+Player 1: P4 - false-0/23-0/1614
+Player 2: P1 - true-20/23-1296/1614
+Player 2: P2 - true-1/23-197/1614
+Player 2: P3 - false-0/23-0/1614
+Player 2: P4 - false-0/23-0/1614
+Turn 65
+Player 2: P1 - true-21/23-1340/1631
+Player 2: P2 - true-0/23-170/1631
+Player 2: P3 - false-0/23-0/1631
+Player 2: P4 - false-0/23-0/1631
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-170/1631
+Player 1: P2 - true-21/23-1340/1631
+Player 1: P3 - false-0/23-0/1631
+Player 1: P4 - false-0/23-0/1631
+Turn 66
+Player 2: P1 - true-21/23-1406/1688
+Player 2: P2 - true-0/23-161/1688
+Player 2: P3 - false-0/23-0/1688
+Player 2: P4 - false-0/23-0/1688
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-161/1688
+Player 1: P2 - true-21/23-1406/1688
+Player 1: P3 - false-0/23-0/1688
+Player 1: P4 - false-0/23-0/1688
+Turn 67
+Player 2: P1 - true-21/23-1470/1741
+Player 2: P2 - true-0/23-150/1741
+Player 2: P3 - false-0/23-0/1741
+Player 2: P4 - false-0/23-0/1741
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-150/1741
+Player 1: P2 - true-21/23-1470/1741
+Player 1: P3 - false-0/23-0/1741
+Player 1: P4 - false-0/23-0/1741
+Turn 68
+Player 1: 
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-134/1632
+Player 1: P2 - true-22/23-1453/1632
+Player 1: P3 - false-0/23-0/1632
+Player 1: P4 - false-0/23-0/1632
+Player 2: P1 - true-22/23-1453/1632
+Player 2: P2 - true-0/23-134/1632
+Player 2: P3 - false-0/23-0/1632
+Player 2: P4 - false-0/23-0/1632
+Turn 69
+Player 2: P1 - true-23/23-1476/1600
+Player 2: P2 - true-0/23-124/1600
+Player 2: P3 - false-0/23-0/1600
+Player 2: P4 - false-0/23-0/1600
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-124/1600
+Player 1: P2 - true-23/23-1476/1600
+Player 1: P3 - false-0/23-0/1600
+Player 1: P4 - false-0/23-0/1600
+Turn 70
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-103/1638
+Player 1: P2 - true-23/23-1535/1638
+Player 1: P3 - false-0/23-0/1638
+Player 1: P4 - false-0/23-0/1638
+Player 2: P1 - true-23/23-1535/1638
+Player 2: P2 - true-0/23-103/1638
+Player 2: P3 - false-0/23-0/1638
+Player 2: P4 - false-0/23-0/1638
+Turn 71
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-103/1718
+Player 1: P2 - true-23/23-1615/1718
+Player 1: P3 - false-0/23-0/1718
+Player 1: P4 - false-0/23-0/1718
+Player 2: P1 - true-23/23-1615/1718
+Player 2: P2 - true-0/23-103/1718
+Player 2: P3 - false-0/23-0/1718
+Player 2: P4 - false-0/23-0/1718
+Turn 72
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-80/1752
+Player 1: P2 - true-23/23-1672/1752
+Player 1: P3 - false-0/23-0/1752
+Player 1: P4 - false-0/23-0/1752
+Player 2: P1 - true-23/23-1672/1752
+Player 2: P2 - true-0/23-80/1752
+Player 2: P3 - false-0/23-0/1752
+Player 2: P4 - false-0/23-0/1752
+Turn 73
+Player 2: P1 - true-23/23-1741/1810
+Player 2: P2 - true-0/23-69/1810
+Player 2: P3 - false-0/23-0/1810
+Player 2: P4 - false-0/23-0/1810
+Player 1: 
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-69/1810
+Player 1: P2 - true-23/23-1741/1810
+Player 1: P3 - false-0/23-0/1810
+Player 1: P4 - false-0/23-0/1810
+Turn 74
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-55/1862
+Player 1: P2 - true-23/23-1807/1862
+Player 1: P3 - false-0/23-0/1862
+Player 1: P4 - false-0/23-0/1862
+Player 2: P1 - true-23/23-1807/1862
+Player 2: P2 - true-0/23-55/1862
+Player 2: P3 - false-0/23-0/1862
+Player 2: P4 - false-0/23-0/1862
+Turn 75
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-50/1932
+Player 1: P2 - true-23/23-1882/1932
+Player 1: P3 - false-0/23-0/1932
+Player 1: P4 - false-0/23-0/1932
+Player 2: P1 - true-23/23-1882/1932
+Player 2: P2 - true-0/23-50/1932
+Player 2: P3 - false-0/23-0/1932
+Player 2: P4 - false-0/23-0/1932
+Turn 76
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-46/2004
+Player 1: P2 - true-23/23-1958/2004
+Player 1: P3 - false-0/23-0/2004
+Player 1: P4 - false-0/23-0/2004
+Player 2: P1 - true-23/23-1958/2004
+Player 2: P2 - true-0/23-46/2004
+Player 2: P3 - false-0/23-0/2004
+Player 2: P4 - false-0/23-0/2004
+Turn 77
+Player 2: P1 - true-23/23-2025/2058
+Player 2: P2 - true-0/23-33/2058
+Player 2: P3 - false-0/23-0/2058
+Player 2: P4 - false-0/23-0/2058
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-33/2058
+Player 1: P2 - true-23/23-2025/2058
+Player 1: P3 - false-0/23-0/2058
+Player 1: P4 - false-0/23-0/2058
+Turn 78
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-18/2108
+Player 1: P2 - true-23/23-2090/2108
+Player 1: P3 - false-0/23-0/2108
+Player 1: P4 - false-0/23-0/2108
+Player 2: P1 - true-23/23-2090/2108
+Player 2: P2 - true-0/23-18/2108
+Player 2: P3 - false-0/23-0/2108
+Player 2: P4 - false-0/23-0/2108
+Turn 79
+Player 1: 1
+Player 2: P1 - true-23/23-2164/2176
+Player 2: P2 - true-0/23-12/2176
+Player 2: P3 - false-0/23-0/2176
+Player 2: P4 - false-0/23-0/2176
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-12/2176
+Player 1: P2 - true-23/23-2164/2176
+Player 1: P3 - false-0/23-0/2176
+Player 1: P4 - false-0/23-0/2176
+Turn 80
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-9/2250
+Player 1: P2 - true-23/23-2241/2250
+Player 1: P3 - false-0/23-0/2250
+Player 1: P4 - false-0/23-0/2250
+Player 2: P1 - true-23/23-2241/2250
+Player 2: P2 - true-0/23-9/2250
+Player 2: P3 - false-0/23-0/2250
+Player 2: P4 - false-0/23-0/2250
+Turn 81
+Player 2: P1 - true-23/23-2321/2330
+Player 2: P2 - true-0/23-9/2330
+Player 2: P3 - false-0/23-0/2330
+Player 2: P4 - false-0/23-0/2330
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-9/2330
+Player 1: P2 - true-23/23-2321/2330
+Player 1: P3 - false-0/23-0/2330
+Player 1: P4 - false-0/23-0/2330
+Turn 82
+Player 1: 1
+Player 1: myShipsEnemyRatio 0.0
+Player 1: myShipsLandedFlyingRatio 0.0
+Player 1: myPlanetsEnemyRatio 0.0
+Player 1: myPlanetsTotalRatio 0.0
+Player 1: 2
+Player 1: 3
+Player 1: P1 - true-0/23-9/2410
+Player 1: P2 - true-23/23-2401/2410
+Player 1: P3 - false-0/23-0/2410
+Player 1: P4 - false-0/23-0/2410
+Player 2: P1 - true-23/23-2401/2410
+Player 2: P2 - true-0/23-9/2410
+Player 2: P3 - false-0/23-0/2410
+Player 2: P4 - false-0/23-0/2410
+Turn 83
+Player 2 Wins!
